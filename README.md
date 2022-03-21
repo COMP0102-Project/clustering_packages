@@ -1,5 +1,5 @@
 # clustering_packages
-API package for evaluating clusters so that it can be used by pother developers
+API package for evaluating clusters so that it can be used by other developers
 This package allows you to call functions that will help in the clustering xray images particularly from
 the chexpert dataset.
 It allows for visualisation, dataset and model loading as well as evaluation of images seen in the 
