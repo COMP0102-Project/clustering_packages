@@ -8,7 +8,7 @@ chexpert dataset.
 Evaluation is generic since it the get_purity_score and get_silhouette_score can take in any
 feature vectors and the images associated with them.
 
-
-# # for example_usage.py to run successfully, 
-# # 1) place CheXper-v1.0-small in the same directory as this file
-# # 2) CheXper-v1.0-small should also contain chexpert_weights.hdf5
+---------------------------------------------------------------------------------------------
+for example_usage.py to run successfully, 
+1) place CheXper-v1.0-small in the same directory as this file
+2) CheXper-v1.0-small should also contain chexpert_weights.hdf5
