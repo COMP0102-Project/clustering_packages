@@ -1,0 +1,7 @@
+clustering
+==========
+
+.. toctree::
+   :maxdepth: 4
+
+   clustering
